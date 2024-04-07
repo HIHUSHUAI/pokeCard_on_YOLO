@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "10"
+    },
+    {
+      "id": 1,
+      "name": "2"
+    },
+    {
+      "id": 2,
+      "name": "3"
+    },
+    {
+      "id": 3,
+      "name": "4"
+    },
+    {
+      "id": 4,
+      "name": "5"
+    },
+    {
+      "id": 5,
+      "name": "6"
+    },
+    {
+      "id": 6,
+      "name": "7"
+    },
+    {
+      "id": 7,
+      "name": "8"
+    },
+    {
+      "id": 8,
+      "name": "9"
+    },
+    {
+      "id": 9,
+      "name": "A"
+    },
+    {
+      "id": 10,
+      "name": "J"
+    },
+    {
+      "id": 11,
+      "name": "K"
+    },
+    {
+      "id": 12,
+      "name": "Q"
+    },
+    {
+      "id": 13,
+      "name": "bX"
+    },
+    {
+      "id": 14,
+      "name": "clock"
+    },
+    {
+      "id": 15,
+      "name": "dizhu"
+    },
+    {
+      "id": 16,
+      "name": "pass"
+    },
+    {
+      "id": 17,
+      "name": "rD"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
